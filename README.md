@@ -6,4 +6,4 @@ In order to help us make smarter investing decisions, I utilised the yahoo finan
 I took into consideration the stocks of the pharmaceutical business DR.REDDY'S LABAROTARIES, which is situated in India, for my project. Hyderabad  is home to the worldwide pharmaceutical business Dr. Reddy's Laboratories. Kallam Anji Reddy, who had previously worked for the mentor company Indian Drugs & Pharmaceuticals Limited, created the business. Dr. Reddy's produces and sells a variety of medications both domestically and abroad. The business produces about 190 drugs, 60 active pharmaceutical ingredients (APIs), diagnostic tools, critical care, and biotechnology products.
 
 ![alt text](https://csrbox.org/company/cmp_logo/1540363502Dr_reddys_logo_(1).jpg)
-![alt_text]https://pasteboard.co/VoNMP6diCwan.png
+![alt_text])(https://gcdnb.pbrd.co/images/VoNMP6diCwan.png?o=1)
